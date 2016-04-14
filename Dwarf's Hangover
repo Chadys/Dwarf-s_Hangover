@@ -1,0 +1,4 @@
+#!/bin/sh
+
+javac Game.java Level.java Objet.java Interactive.java Pnj.java Item.java Inventaire.java Exit.java Perso.java Action.java Data.java
+java Game
